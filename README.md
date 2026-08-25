@@ -4,8 +4,6 @@ A lightweight **Kotlin + Spring Boot backend** designed to simulate a production
 
 The project focuses on the engineering and troubleshooting workflow behind customer-facing payment systems: tracing API requests through application layers, investigating database state, reproducing issues, identifying root causes, and implementing fixes.
 
-> **Project focus:** Production support, troubleshooting, backend fundamentals, API investigation, SQL/database analysis, and payment-system concepts.
-
 ---
 
 ## 🎯 Why I Built This
@@ -721,16 +719,6 @@ Possible extensions include:
 - Kubernetes deployment
 
 These are intentionally listed as future improvements rather than implemented functionality.
-
----
-
-# 👨‍💻 Author
-
-**Hammad Fazal**
-
-Telecommunications Engineering graduate with experience in production support, SQL, Python, Linux, Docker, troubleshooting, and technical operations.
-
-This project represents my hands-on exploration of Kotlin/Spring backend systems and production support workflows in a simulated payment/fintech environment.
 
 ---
 
